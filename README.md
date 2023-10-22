@@ -5,5 +5,7 @@ After Entering the Correct password user have two options(1- Change Password ,2-
 in case of Manual Mode You have full control of anu thing in Home ,at Automatic Mode all actions are taken based on sensor Readings
 
 Picture of protoues design
+
+
 ![image](https://github.com/AhmedSamirSalem/Smart-home-master-and-salve-ATMEGA32/assets/140488795/7a3344f2-cbc1-4b70-a009-8b7634c39636)
 
